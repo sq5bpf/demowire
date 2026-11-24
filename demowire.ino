@@ -3,7 +3,8 @@
  * Demo code showing how to do a very simple radio replay attack using an rtl-sdr for receiving
  * and arduino nano with a cheap 433MHz transmitter board to send it
  *
- * 
+ * Article here: https://lipkowski.com/2026/11/24/simple-demo-of-hacking-a-wireless-doorbell/
+ * Demo here: https://youtu.be/h4a_AWuNOqI
  *
  * Note: The code is written in the Arduino IDE. Not my favorite, but it is
  * very well documented. Also the code is written to be simple to understand,
